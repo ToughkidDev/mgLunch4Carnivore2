@@ -10,7 +10,7 @@ mgLunch! is a MSX ROM launcher for Carnivore2
 USAGE
 
     mgLunch.com - mgLunch! for MegaFlashSDSCC+ 
-    opfxsd.com  - romloader for MegaFlashSDSCC+
+    srom.com    - MSX Rom Loader - Sofarom v3.2 https://www.louthrax.net/mgr/sofarom.html
     mglCook.exe - rom file scanner for Windows xp/vista/7/8/8.1/10 
     
 
