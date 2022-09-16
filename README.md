@@ -56,8 +56,8 @@ toughkiddev@gmail.com
 
 -------------------------
 ## Youtube Video Links
-#### mgLunch! for Carnivore 2 (ToSECMSX) in action
-- https://youtu.be/NFrUmVqR2dE?t=266
+#### mgLunch! for Carnivore 2 (ToSECMSX) in action - https://youtu.be/NFrUmVqR2dE?t=266
+[![MSX mgLunch! Carnivore 2 (ToSECMSX) in action](https://yt-embed.herokuapp.com/embed?v=NFrUmVqR2dE)](https://www.youtube.com/watch?v=NFrUmVqR2dE?t=266 "MSX mgLunch! Carnivore 2 (ToSECMSX) in action")
 
 #### Konami Game Master 2 Cartridge (コナミの新10倍カートリッジ) effects in action. 
 - https://www.youtube.com/watch?v=oPYG_nR55Ws&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=6
